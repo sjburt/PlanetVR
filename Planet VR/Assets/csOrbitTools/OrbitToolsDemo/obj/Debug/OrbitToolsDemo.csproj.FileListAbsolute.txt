@@ -1,0 +1,9 @@
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\OrbitToolsDemo.exe
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\OrbitToolsDemo.pdb
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\Zeptomoby.OrbitTools.Core.dll
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\Zeptomoby.OrbitTools.Orbit.dll
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\Zeptomoby.OrbitTools.Core.pdb
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\bin\Debug\Zeptomoby.OrbitTools.Orbit.pdb
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\obj\Debug\OrbitToolsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\obj\Debug\OrbitToolsDemo.exe
+C:\Users\Darcy\Desktop\csOrbitTools\OrbitToolsDemo\obj\Debug\OrbitToolsDemo.pdb

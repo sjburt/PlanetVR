@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet VR.Plugins", "Planet VR.Plugins.csproj", "{2DA3A767-CF11-2803-CD21-0680EC8CB186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet VR", "Planet VR.csproj", "{192E152C-66B3-144F-BAFC-70501E03D334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet VR.Editor", "Planet VR.Editor.csproj", "{BF8880ED-4827-E5C8-646C-5507EF7DDF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA3A767-CF11-2803-CD21-0680EC8CB186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA3A767-CF11-2803-CD21-0680EC8CB186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA3A767-CF11-2803-CD21-0680EC8CB186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA3A767-CF11-2803-CD21-0680EC8CB186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192E152C-66B3-144F-BAFC-70501E03D334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192E152C-66B3-144F-BAFC-70501E03D334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192E152C-66B3-144F-BAFC-70501E03D334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192E152C-66B3-144F-BAFC-70501E03D334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8880ED-4827-E5C8-646C-5507EF7DDF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8880ED-4827-E5C8-646C-5507EF7DDF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8880ED-4827-E5C8-646C-5507EF7DDF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8880ED-4827-E5C8-646C-5507EF7DDF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
